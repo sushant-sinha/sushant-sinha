@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=sushant-sinha&label=PROFILE+VIEWS)
 
 <!--
 - 🔭 I’m currently working on ...
@@ -12,3 +12,6 @@
 - ⚡ Fun fact: ...
 -->
 [![Sushant's github stats](https://github-readme-stats.vercel.app/api?username=sushant-sinha&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sushant-sinha)](https://github.com/DenverCoder1/github-readme-streak-stats)
