@@ -1,7 +1,7 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Sushant Sinha !! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-[![Linkedin: Sushant](https://img.shields.io/badge/-Sushant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/super-sushant/)](www.linkedin.com/in/super-sushant/)
+[![Linkedin: Sushant](https://img.shields.io/badge/-Sushant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sushant-sinha-188b19190/)](https://www.linkedin.com/in/sushant-sinha-188b19190/)
 
 <!--
 - 🔭 I’m currently working on ...
