@@ -20,5 +20,6 @@
 
 [![Sushant's github stats](https://github-readme-stats.vercel.app/api?username=sushant-sinha&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sushant-sinha&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sushant-sinha&theme=merko)](https://github.com/DenverCoder1/github-readme-streak-stats)
