@@ -3,7 +3,7 @@
 
 [![Linkedin: Sushant](https://img.shields.io/badge/-Sushant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sushant-sinha-188b19190/)](https://www.linkedin.com/in/sushant-sinha-188b19190/)
 ![GitHub followers](https://img.shields.io/github/followers/sushant-sinha?label=Follow&style=social)
-![](https://komarev.com/ghpvc/?username=sushant-sinha&color=000000)
+![](https://komarev.com/ghpvc/?username=sushant-sinha&color=101010)
 
 ## ⚡ Technologies
 
