@@ -6,7 +6,8 @@
 ![](https://komarev.com/ghpvc/?username=sushant-sinha&color=101010)
 
 
-[![Sushant's github stats](https://github-readme-stats.vercel.app/api?username=sushant-sinha&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+![Sushant's github stats](https://github-readme-stats.vercel.app/api?username=sushant-sinha&show_icons=true&theme=chartreuse-dark)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sushant-sinha&title=Joined2020,Commit,Stars&theme=darkhub&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
