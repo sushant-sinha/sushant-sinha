@@ -11,4 +11,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sushant-sinha&title=Joined2020,Commit,Stars&theme=darkhub&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sushant-sinha&theme=merko)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sushant-sinha&theme=chartreuse-dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
