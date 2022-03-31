@@ -5,6 +5,8 @@
 ![](https://komarev.com/ghpvc/?username=sushant-sinha&color=101010)
 <!--![GitHub followers](https://img.shields.io/github/followers/sushant-sinha?label=Follow&style=social)-->
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 ![Sushant's github stats](https://github-readme-stats.vercel.app/api?username=sushant-sinha&show_icons=true&theme=chartreuse-dark)
 
 
