@@ -1,5 +1,7 @@
 <h2>नमस्ते (Namaste):pray:, I'm Sushant Sinha!! </h2><br>
 
+![](https://komarev.com/ghpvc/?username=sushant-sinha&color=101010)
+
 **<h3>Contact me here: </h3>**
 - [LinkedIn](https://www.linkedin.com/in/super-sushant/ "LinkedIn")
 - [Email-sinhasushant04@gmail.com](mailto:sinhasushant04@gmail.com)
@@ -16,7 +18,6 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-![](https://komarev.com/ghpvc/?username=sushant-sinha&color=101010)
 <!--![GitHub followers](https://img.shields.io/github/followers/sushant-sinha?label=Follow&style=social)-->
 
 ![Sushant's github stats](https://github-readme-stats.vercel.app/api?username=sushant-sinha&show_icons=true&theme=chartreuse-dark)
