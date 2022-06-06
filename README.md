@@ -1,10 +1,17 @@
 <h2>नमस्ते (Namaste):pray:, I'm Sushant Sinha!! </h2><br>
 
+**<h3>Contact me here: </h3>**
+
+- [LinkedIn](https://www.linkedin.com/in/super-sushant/ "LinkedIn")
+- [Email-sinhasushant04@gmail.com](mailto:sinhasushant04@gmail.com)
+
+<!-- [![Linkedin: Sushant](https://img.shields.io/badge/-Sushant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sushant-sinha-188b19190/)](https://www.linkedin.com/in/super-sushant/)-->
+
+
 ![](./profile-3d-contrib/profile-night-green.svg)
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-[![Linkedin: Sushant](https://img.shields.io/badge/-Sushant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sushant-sinha-188b19190/)](https://www.linkedin.com/in/super-sushant/)
 ![](https://komarev.com/ghpvc/?username=sushant-sinha&color=101010)
 <!--![GitHub followers](https://img.shields.io/github/followers/sushant-sinha?label=Follow&style=social)-->
 
