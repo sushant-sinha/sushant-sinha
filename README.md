@@ -1,10 +1,14 @@
 <h2>नमस्ते (Namaste):pray:, I'm Sushant Sinha!! </h2><br>
 
 **<h3>Contact me here: </h3>**
-
 - [LinkedIn](https://www.linkedin.com/in/super-sushant/ "LinkedIn")
 - [Email-sinhasushant04@gmail.com](mailto:sinhasushant04@gmail.com)
 
+**<h3>Other Links:</h3>**
+- [LeetCode](https://leetcode.com/sushant-sinha/ "LeetCode")
+- [GitHub (You are here btw)](https://github.com/sushant-sinha/ "GitHub")
+- [HackerRank](https://www.hackerrank.com/sinhasushant04 "HackerRank")
+<br><br><br>
 <!-- [![Linkedin: Sushant](https://img.shields.io/badge/-Sushant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sushant-sinha-188b19190/)](https://www.linkedin.com/in/super-sushant/)-->
 
 
