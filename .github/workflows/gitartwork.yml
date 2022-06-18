@@ -15,4 +15,4 @@ jobs:
             user_name: sushant-sinha
             # Text on contribution graph 
             text: SUSHANT
-       - uses: sushant-sinha/push-action@v1
+       - uses: atosinu/push-action@v1
