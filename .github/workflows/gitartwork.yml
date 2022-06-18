@@ -9,7 +9,7 @@ jobs:
      runs-on: ubuntu-latest
      steps:
        - uses: actions/checkout@v3
-       - uses: sushant-sinha/gitartwork@v1.01
+       - uses: atosinu/gitartwork@v1.01
          with:
             # Use this username's contribution graph  
             user_name: sushant-sinha
