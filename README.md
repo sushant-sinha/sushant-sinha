@@ -1,5 +1,6 @@
 <h2>नमस्ते (Namaste):pray:, I'm Sushant Sinha!! </h2><br>
-
+<img alt="git art work animation" title="Git Art Work Animation" src="https://github.com/atosinu/atosinu/blob/main/gitartwork.svg" width="100%" style="margin-left:-32px" />
+<br />
 ![](https://komarev.com/ghpvc/?username=sushant-sinha&color=101010)
 
 **<h3>Contact me here: </h3>**
