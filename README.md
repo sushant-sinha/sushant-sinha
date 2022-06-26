@@ -6,7 +6,7 @@
 
 **<h3>Contact me here: </h3>**
 - [LinkedIn](https://www.linkedin.com/in/super-sushant/ "LinkedIn")
-- [Email-sinhasushant04@gmail.com](mailto:sinhasushant04@gmail.com)
+- [Email: sinhasushant04@gmail.com](mailto:sinhasushant04@gmail.com)
 
 **<h3>Other Links:</h3>**
 - [LeetCode](https://leetcode.com/sushant-sinha/ "LeetCode")
