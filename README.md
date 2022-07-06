@@ -9,6 +9,7 @@
 - [Email: sinhasushant04@gmail.com](mailto:sinhasushant04@gmail.com)
 
 **<h3>Other Links:</h3>**
+- [Linktree](https://linktr.ee/sushant_sinha)
 - [LeetCode](https://leetcode.com/sushant-sinha/ "LeetCode")
 - [GitHub (You are here btw)](https://github.com/sushant-sinha/ "GitHub")
 - [HackerRank](https://www.hackerrank.com/sinhasushant04 "HackerRank")
