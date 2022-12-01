@@ -28,6 +28,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sushant-sinha&title=Joined2020,Commit,Stars&theme=radical&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sushant-sinha&theme=dark)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sushant-sinha&theme=dark&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sushant-sinha&theme=chartreuse-dark)](https://git.io/streak-stats)
