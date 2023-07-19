@@ -12,7 +12,7 @@ jobs:
        - uses: atosinu/gitartwork@v1.01
          with:
             # Use this username's contribution graph  
-            user_name: sushant-sinha
+            user_name: prajesh2612
             # Text on contribution graph 
             text: SUSHANT
        - uses: atosinu/push-action@v1
