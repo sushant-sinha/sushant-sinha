@@ -1,10 +1,10 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Sushant Sinha!! </h2><br>
+<h2>नमस्ते (Namaste)🙏🏻, I'm Sushant!! </h2><br>
 <img alt="git art work animation" title="Git Art Work Animation" src="https://github.com/sushant-sinha/sushant-sinha/blob/main/gitartwork.svg" width="100%" style="margin-left:-32px" />
 
 
 ![](https://komarev.com/ghpvc/?username=sushant-sinha&color=101010)
 
-**<h3>Contact me here: </h3>**
+**<h3>Contact me at: </h3>**
 - [LinkedIn](https://www.linkedin.com/in/super-sushant/ "LinkedIn")
 - [Email: sinhasushant04@gmail.com](mailto:sinhasushant04@gmail.com)
 
